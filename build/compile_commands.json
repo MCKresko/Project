@@ -1,0 +1,62 @@
+[
+{
+  "directory": "C:/Users/PC/Downloads/Tower_Defence_project_menu_clean/Tower_Defence_project/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Users/PC/Downloads/Tower_Defence_project_menu_clean/Tower_Defence_project/include -g -std=gnu++17 -o CMakeFiles\\RobotTowerDefense.dir\\src\\Asset.cpp.obj -c C:\\Users\\PC\\Downloads\\Tower_Defence_project_menu_clean\\Tower_Defence_project\\src\\Asset.cpp",
+  "file": "C:/Users/PC/Downloads/Tower_Defence_project_menu_clean/Tower_Defence_project/src/Asset.cpp",
+  "output": "C:/Users/PC/Downloads/Tower_Defence_project_menu_clean/Tower_Defence_project/build/CMakeFiles/RobotTowerDefense.dir/src/Asset.cpp.obj"
+},
+{
+  "directory": "C:/Users/PC/Downloads/Tower_Defence_project_menu_clean/Tower_Defence_project/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Users/PC/Downloads/Tower_Defence_project_menu_clean/Tower_Defence_project/include -g -std=gnu++17 -o CMakeFiles\\RobotTowerDefense.dir\\src\\Bullet.cpp.obj -c C:\\Users\\PC\\Downloads\\Tower_Defence_project_menu_clean\\Tower_Defence_project\\src\\Bullet.cpp",
+  "file": "C:/Users/PC/Downloads/Tower_Defence_project_menu_clean/Tower_Defence_project/src/Bullet.cpp",
+  "output": "C:/Users/PC/Downloads/Tower_Defence_project_menu_clean/Tower_Defence_project/build/CMakeFiles/RobotTowerDefense.dir/src/Bullet.cpp.obj"
+},
+{
+  "directory": "C:/Users/PC/Downloads/Tower_Defence_project_menu_clean/Tower_Defence_project/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Users/PC/Downloads/Tower_Defence_project_menu_clean/Tower_Defence_project/include -g -std=gnu++17 -o CMakeFiles\\RobotTowerDefense.dir\\src\\Enemy.cpp.obj -c C:\\Users\\PC\\Downloads\\Tower_Defence_project_menu_clean\\Tower_Defence_project\\src\\Enemy.cpp",
+  "file": "C:/Users/PC/Downloads/Tower_Defence_project_menu_clean/Tower_Defence_project/src/Enemy.cpp",
+  "output": "C:/Users/PC/Downloads/Tower_Defence_project_menu_clean/Tower_Defence_project/build/CMakeFiles/RobotTowerDefense.dir/src/Enemy.cpp.obj"
+},
+{
+  "directory": "C:/Users/PC/Downloads/Tower_Defence_project_menu_clean/Tower_Defence_project/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Users/PC/Downloads/Tower_Defence_project_menu_clean/Tower_Defence_project/include -g -std=gnu++17 -o CMakeFiles\\RobotTowerDefense.dir\\src\\Game.cpp.obj -c C:\\Users\\PC\\Downloads\\Tower_Defence_project_menu_clean\\Tower_Defence_project\\src\\Game.cpp",
+  "file": "C:/Users/PC/Downloads/Tower_Defence_project_menu_clean/Tower_Defence_project/src/Game.cpp",
+  "output": "C:/Users/PC/Downloads/Tower_Defence_project_menu_clean/Tower_Defence_project/build/CMakeFiles/RobotTowerDefense.dir/src/Game.cpp.obj"
+},
+{
+  "directory": "C:/Users/PC/Downloads/Tower_Defence_project_menu_clean/Tower_Defence_project/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Users/PC/Downloads/Tower_Defence_project_menu_clean/Tower_Defence_project/include -g -std=gnu++17 -o CMakeFiles\\RobotTowerDefense.dir\\src\\Map.cpp.obj -c C:\\Users\\PC\\Downloads\\Tower_Defence_project_menu_clean\\Tower_Defence_project\\src\\Map.cpp",
+  "file": "C:/Users/PC/Downloads/Tower_Defence_project_menu_clean/Tower_Defence_project/src/Map.cpp",
+  "output": "C:/Users/PC/Downloads/Tower_Defence_project_menu_clean/Tower_Defence_project/build/CMakeFiles/RobotTowerDefense.dir/src/Map.cpp.obj"
+},
+{
+  "directory": "C:/Users/PC/Downloads/Tower_Defence_project_menu_clean/Tower_Defence_project/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Users/PC/Downloads/Tower_Defence_project_menu_clean/Tower_Defence_project/include -g -std=gnu++17 -o CMakeFiles\\RobotTowerDefense.dir\\src\\Tower.cpp.obj -c C:\\Users\\PC\\Downloads\\Tower_Defence_project_menu_clean\\Tower_Defence_project\\src\\Tower.cpp",
+  "file": "C:/Users/PC/Downloads/Tower_Defence_project_menu_clean/Tower_Defence_project/src/Tower.cpp",
+  "output": "C:/Users/PC/Downloads/Tower_Defence_project_menu_clean/Tower_Defence_project/build/CMakeFiles/RobotTowerDefense.dir/src/Tower.cpp.obj"
+},
+{
+  "directory": "C:/Users/PC/Downloads/Tower_Defence_project_menu_clean/Tower_Defence_project/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Users/PC/Downloads/Tower_Defence_project_menu_clean/Tower_Defence_project/include -g -std=gnu++17 -o CMakeFiles\\RobotTowerDefense.dir\\src\\Utils.cpp.obj -c C:\\Users\\PC\\Downloads\\Tower_Defence_project_menu_clean\\Tower_Defence_project\\src\\Utils.cpp",
+  "file": "C:/Users/PC/Downloads/Tower_Defence_project_menu_clean/Tower_Defence_project/src/Utils.cpp",
+  "output": "C:/Users/PC/Downloads/Tower_Defence_project_menu_clean/Tower_Defence_project/build/CMakeFiles/RobotTowerDefense.dir/src/Utils.cpp.obj"
+},
+{
+  "directory": "C:/Users/PC/Downloads/Tower_Defence_project_menu_clean/Tower_Defence_project/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Users/PC/Downloads/Tower_Defence_project_menu_clean/Tower_Defence_project/include -g -std=gnu++17 -o CMakeFiles\\RobotTowerDefense.dir\\src\\WaveManager.cpp.obj -c C:\\Users\\PC\\Downloads\\Tower_Defence_project_menu_clean\\Tower_Defence_project\\src\\WaveManager.cpp",
+  "file": "C:/Users/PC/Downloads/Tower_Defence_project_menu_clean/Tower_Defence_project/src/WaveManager.cpp",
+  "output": "C:/Users/PC/Downloads/Tower_Defence_project_menu_clean/Tower_Defence_project/build/CMakeFiles/RobotTowerDefense.dir/src/WaveManager.cpp.obj"
+},
+{
+  "directory": "C:/Users/PC/Downloads/Tower_Defence_project_menu_clean/Tower_Defence_project/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Users/PC/Downloads/Tower_Defence_project_menu_clean/Tower_Defence_project/include -g -std=gnu++17 -o CMakeFiles\\RobotTowerDefense.dir\\src\\explosion.cpp.obj -c C:\\Users\\PC\\Downloads\\Tower_Defence_project_menu_clean\\Tower_Defence_project\\src\\explosion.cpp",
+  "file": "C:/Users/PC/Downloads/Tower_Defence_project_menu_clean/Tower_Defence_project/src/explosion.cpp",
+  "output": "C:/Users/PC/Downloads/Tower_Defence_project_menu_clean/Tower_Defence_project/build/CMakeFiles/RobotTowerDefense.dir/src/explosion.cpp.obj"
+},
+{
+  "directory": "C:/Users/PC/Downloads/Tower_Defence_project_menu_clean/Tower_Defence_project/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Users/PC/Downloads/Tower_Defence_project_menu_clean/Tower_Defence_project/include -g -std=gnu++17 -o CMakeFiles\\RobotTowerDefense.dir\\src\\main.cpp.obj -c C:\\Users\\PC\\Downloads\\Tower_Defence_project_menu_clean\\Tower_Defence_project\\src\\main.cpp",
+  "file": "C:/Users/PC/Downloads/Tower_Defence_project_menu_clean/Tower_Defence_project/src/main.cpp",
+  "output": "C:/Users/PC/Downloads/Tower_Defence_project_menu_clean/Tower_Defence_project/build/CMakeFiles/RobotTowerDefense.dir/src/main.cpp.obj"
+}
+]
